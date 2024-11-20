@@ -115,7 +115,7 @@ html{
   display: inline-block;
   width: 7rem;
   height: 7rem;
-  background-image: url("/img/logo.png"); 
+  background-image: url("img/logo.png"); 
   background-size: cover;
   background-position: center;
 }
@@ -234,11 +234,11 @@ html{
 }
 
 
-
+	
 /* --- Banner --- */
 
 .banner{
-  background-image: linear-gradient(100deg, #000, #00000030), url("/img/DSC_0105.jpg");
+  background-image: linear-gradient(100deg, #000, #00000030), url("img/DSC_0105.jpg");
   height: 45rem;
   background-size: cover;
   background-position: center;
